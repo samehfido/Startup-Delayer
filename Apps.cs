@@ -59,6 +59,7 @@ public class App
     public string Name { get; set; }
     public int Delay { get; set; }
     public string Path { get; set; }
+    public string Arguments { get; set; }
 
     public App()
     {
